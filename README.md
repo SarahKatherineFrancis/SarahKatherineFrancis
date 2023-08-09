@@ -16,5 +16,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sarahkatherinefrancis&show_icons=true&locale=en&layout=compact" alt="sarahkatherinefrancis" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sarahkatherinefrancis&show_icons=true&locale=en" alt="sarahkatherinefrancis" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sarahkatherinefrancis&" alt="sarahkatherinefrancis" /></p>
