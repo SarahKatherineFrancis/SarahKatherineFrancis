@@ -35,9 +35,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/slack/slack-original.svg" height="40" alt="slack logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/SarahKatherineFrancis/SarahKatherineFrancis/output/snake.svg" alt="Snake animation" />
-
-###
